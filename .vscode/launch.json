@@ -1,0 +1,21 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "MoodBasedMusicPlayer",
+            "request": "launch",
+            "mainClass": "MoodBasedMusicPlayer",
+            "projectName": "College Java Proj_32d53be"
+        },
+        {
+            "type": "java",
+            "name": "MoodBasedMusicPlayer",
+            "request": "launch",
+            "mainClass": "MoodBasedMusicPlayer",
+            "projectName": "College Java Proj",
+            "args": "",
+            "console": "internalConsole"
+        }
+    ]
+}
