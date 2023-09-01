@@ -14,8 +14,6 @@ public class MoodBasedMusicPlayer {
         String mood = getUserMoodInput();
         String moodFolderPath = baseFolderPath + "/" + mood;
         playRandomSongFromMoodFolder(moodFolderPath);
-        JOptionPane.showMessageDialog(null, mood, moodFolderPath, 0);
-        JOptionPane.showMessageDialog(null,"Press 'Stop' to stop.");
     }
 
     public static String getUserMoodInput() {
